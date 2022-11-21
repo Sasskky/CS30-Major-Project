@@ -5,12 +5,13 @@ I want to create a flag guesing game where players can select what region of fla
 ## Needs to have List
 - [ ] A large selection of flags to prevent repition.
 - [ ] A well put togther game aesthetic.
-- [ ] Atleast 4 diffrent category's to choose from.
+- [ ] Atleast 4 diffrent category's of flags to choose from.
 - [ ] To create a function that correctly checks if the players selction is correct or incorrect.
 - [ ] A basic reward system for incentive to play.
 
 ## Nice to have list
 - [ ] To create a more advanced rewards system.
-- [ ] To have a minigame.
+- [ ] To have a minigame (ex. memory game).
 - [ ] To have prizes for the reward system.
 - [ ] possible mutiplayer mode if time allows.
+- [ ] Use css to improve the visual aspects.
