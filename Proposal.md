@@ -8,6 +8,7 @@ I want to create a flag guesing game where players can select what region of fla
 - [ ] Atleast 4 diffrent category's of flags to choose from.
 - [ ] To create a function that correctly checks if the players selction is correct or incorrect.
 - [ ] A basic reward system for incentive to play.
+- [ ] A leaderboard system(locally).
 
 ## Nice to have list
 - [ ] To create a more advanced rewards system.

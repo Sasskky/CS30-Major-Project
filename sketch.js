@@ -1,7 +1,6 @@
-// Project Title
+// Flaguesser
 // Brophy
 // 11/17/22
-//
 // Extra for Experts:
 // - describe what you did to take this project "above and beyond"
 
