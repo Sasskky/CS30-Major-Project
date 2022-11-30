@@ -11,6 +11,7 @@ I want to create a flag guesing game where players can select what region of fla
 - [ ] A leaderboard system(locally). 
 - [ ] Use css to improve the visual aspects.
 - [ ] sound effects and backround music 
+
 ## Nice to have list
 - [ ] To create a more advanced rewards system.
 - [ ] To have a minigame (ex. memory game).
