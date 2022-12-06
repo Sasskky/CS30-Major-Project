@@ -6,14 +6,10 @@ body {
   text-align: center;
 }
 
-.Triangle {
-  position: absolute;
-   border-top: solid 50px #e15915;
-   border-left: solid 50px transparent;
-   border-right: solid 50px transparent;
-   top: 100%;
-   left: 50%;
-   margin-left: -50px;
-   width: 0;
-   height: 0;
+#introductionMenu {
+  width: 30;
+  height: 30;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-bottom: 100px solid red;
 }
