@@ -10,5 +10,5 @@ function setup() {
 }
 
 function draw() {
-  square(20,20,20,20);
+  // square(20,20,20,20);
 }
