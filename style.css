@@ -1,18 +1,30 @@
 body {
   background: url("./flagBackground.webp") no-repeat center center fixed;
   background-size: cover;
-  background-size: cover;
-  background-size: cover;
-  background-size: cover;
   overflow: hidden;
 }
 
 #introductionMenu {
   position: absolute;
-  top: 50%;
-  left:50%;
-  border-left: 250px solid transparent;
-  border-right: 250px solid transparent;
-  border-bottom: 250px solid rgb(0, 162, 255);
+  top: 35%;
+  left: 35%;
+  border-left: 300px solid transparent;
+  border-right: 300px solid transparent;
+  border-bottom: 300px solid rgb(0, 162, 255);
 }
+
+p {
+	overflow: hidden;
+	padding: 1em;
+	width: 25em;
+  height: 25em;
+	border-radius: 50%;
+	background: #352961;
+  color: #e6b2c6;
+  hyphens: auto;
+  font-weight: 300;
+  /*text-align: justify;*/
+  text-align-last: center;
+}
+
 
