@@ -1,9 +1,10 @@
+/*Sets the background image and centres it and fills it to the users screen*/
 body {
   background: url("./flagBackground.webp") no-repeat center center fixed;
   background-size: cover;
   overflow: hidden;
 }
-
+/*Creates the blue triangle and centres it */
 #introductionMenu {
   position: absolute;
   top: 35%;
@@ -12,7 +13,7 @@ body {
   border-right: 300px solid transparent;
   border-bottom: 300px solid rgb(0, 162, 255);
 }
-
+/*Puts the triangle text in the triangle and sets it color to white and sets it's size*/
 p {
 	position: absolute;
 	top: 50%;
@@ -22,7 +23,7 @@ p {
   hyphens: auto;
   font-weight: bold;
 }
-
+/* locates the footer text and sets the size and color to white */
 footer {
   position: absolute;
 	top: 55%;
@@ -32,7 +33,5 @@ footer {
 
 }
 
-.text-center {
-  text-align: center;
-}
+
 
